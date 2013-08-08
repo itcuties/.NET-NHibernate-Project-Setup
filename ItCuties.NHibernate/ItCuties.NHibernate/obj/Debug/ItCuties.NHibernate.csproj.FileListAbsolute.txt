@@ -1,0 +1,1 @@
+C:\Documents\Visual Studio 2012\Projects\ItCuties.NHibernate\ItCuties.NHibernate\bin\Debug\ItCuties.NHibernate.exe.config
